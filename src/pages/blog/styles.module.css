@@ -1,0 +1,168 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    min-height: calc(100vh - 60px);
+    flex-direction: column;
+    background-color: #000;
+}
+
+.container .contentContainer {
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    flex-direction: column;
+    width: 90%;
+    max-width: 1400px;
+    margin: 10px;
+    border-bottom: 1px solid #1e1e1e;
+    z-index: 0;
+    margin-bottom: 100px;
+}
+
+.container .contentContainer .containerContentInfo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    margin-bottom: 35px;
+    margin-top: 60px;
+    opacity: 0;
+    width: 100%;
+}
+
+.container .contentContainer .containerContentInfo .contentTextInfo {
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    flex-direction: column;
+    width: 80%;
+}
+
+.container .contentContainer .containerContentInfo h1 {
+    color: #fff;
+}
+
+.container .contentContainer h1 {
+    color: #fff;
+    font-size: 30px;
+    text-align: start;
+    margin-bottom: 20px;
+}
+
+.container .contentContainer h1 span {
+    color: #0a75f3;
+}
+
+.container .contentContainer p {
+    color: #a1a1aa;
+    font-size: 16px;
+    width: 80%;
+    text-align: start;
+}
+
+.container .contentContainer p a {
+    color: #0a75f3;
+    transition: 0.3s;
+}
+
+.container .contentContainer p a:hover {
+    transition: 0.3s;
+}
+
+.container .contentPosts {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 90%;
+    max-width: 1400px;
+    margin: 10px;
+    z-index: 0;
+    flex-wrap: wrap;
+    opacity: 0;
+}
+
+.container .contentPosts h1 {
+    color: #fff;
+    font-size: 28px;
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 50px;
+}
+
+.container .contentPosts .containerPost {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    border: 1px solid #1e1e1e30;
+    background-color: #090909;
+    padding: 12px 15px;
+    border-radius: 10px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    transition: 0.3s;
+    text-decoration: none;
+}
+
+.container .contentPosts .containerPost:hover {
+    border: 1px solid #1e1e1e;
+    transition: 0.3s;
+}
+
+.container .contentPosts .containerPost:hover p {
+    color: #fff;
+    transition: 0.3s;
+}
+
+.container .contentPosts .containerPost:hover span {
+    color: #fff;
+    transition: 0.3s;
+}
+
+.container .contentPosts .containerPost p {
+    color: #e7e7e7;
+    font-size: 15px;
+    transition: 0.3s;
+    width: 80%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.container .contentPosts .containerPost span {
+    color: #b8b8bc;
+    font-size: 14px;
+    transition: 0.3s;
+}
+
+@media screen and (max-width: 1100px) {
+    .container .contentPosts h1 {
+        font-size: 22px;
+    }
+
+    .container .contentContainer h1 {
+        text-align: center;
+        font-size: 25px;
+        width: 85%;
+    }
+
+    .container .contentContainer p {
+        text-align: center;
+        font-size: 15px;
+    }
+
+    .container .contentContainer .containerContentInfo .contentTextInfo {
+        align-items: center;
+        width: 100%;
+    }
+
+    .container .contentPosts .containerPost {
+        width: 85%;
+    }
+
+    .container .contentPosts .containerPost p {
+        width: 60%;
+    }
+}

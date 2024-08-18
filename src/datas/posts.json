@@ -1,0 +1,20 @@
+{
+    "posts": [
+        {
+            "id":1,
+            "post": "Primeiro projeto em python",
+            "imgs":["https://i.ibb.co/XpT322h/image.png"],
+            "data": "08/08/2024",
+            "desc": "É com prazer que anuncio que terminei meu primeiro projeto em python, uma aplicação para auxiliar os usuários com suporte para seu servidor do Discord",
+            "tags":["Primeiro projeto", "Python"]
+        },
+        {
+            "id":2,
+            "post": "Primeiro post",
+            "imgs":["https://cdn.discordapp.com/attachments/1216141975334551702/1265387623736807485/image.png?ex=66a1538f&is=66a0020f&hm=a3e8c1d513d8e8860343250b9c439c568ed58356affa3861dfeb5dd9d05273ab&"],
+            "data": "23/07/2024",
+            "desc": "Acabei de terminar meu novo projeto de gerenciamento de sua loja pessoal, crie produtos, configure sua loja e compartilhe-a com seus amigos",
+            "tags":["Primeira postagem"]
+        }
+    ]
+}

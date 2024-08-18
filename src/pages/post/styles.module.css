@@ -1,0 +1,105 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    min-height: calc(100vh - 60px);
+    flex-direction: column;
+    background-color: #000;
+}
+
+.container .contentPost {
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    flex-direction: column;
+    width: 90%;
+    max-width: 1400px;
+}
+
+.container .contentPost a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    border: 1px solid #1e1e1e;
+    border-radius: 6px;
+    text-decoration: none;
+    padding: 6px 20px;
+    background-color: #090909;
+    color: #ffffff;
+    transition: 0.3s;
+}
+
+.container .contentPost a .iconBackToHome {
+    margin-right: 10px;
+    font-size: 18px;
+    transition: 0.3s;
+}
+
+.container .contentPost h1 {
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    color: #Fff;
+    margin-bottom: 18px;
+    font-weight: 500;
+    font-size: 28px;
+}
+
+.container .contentPost h2 {
+    margin-bottom: 18px;
+    color: #c1c1c1;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.container .contentPost p {
+    font-size: 15px;
+    color: #a1a1aa;
+    margin-bottom: 20px;
+}
+
+.container .contentPost ul {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    padding: 0;
+    list-style: none;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+
+.container .contentPost ul li {
+    color: #Fff;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #1e1e1e;
+    border-radius: 6px;
+    padding: 6px 15px;
+}
+
+.container .contentPost img {
+    height: 600px;
+    width: 100%;
+    border-radius: 6px;
+    margin-bottom: 20px;
+}
+
+@media screen and (max-width: 1100px) {
+    .container .contentPost img {
+        height: 300px;
+        margin-bottom: 25px;
+    }
+
+    .container .contentPost h1 {
+        display: flex;
+        align-items: start;
+        justify-content: start;
+        color: #Fff;
+        margin-bottom: 25px;
+        font-weight: 500;
+        font-size: 25px;
+        flex-direction: column;
+    }
+}
