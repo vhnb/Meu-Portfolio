@@ -2,18 +2,8 @@
     "projects": [
         {
             "id":1,
-            "project": "Projeto Suporte Discord",
-            "img":"https://i.ibb.co/XpT322h/image.png",
-            "data": "08/08/2024",
-            "desc": "Aplicação Discord",
-            "extendedDesc": "Aplicação para auxiliar no suporte de seu servidor do Discord.",
-            "skillsUsed":["Python"],
-            "repo": "https://github.com/vhnb/Suporte-para-Discord"
-        },
-        {
-            "id":2,
             "project": "Projeto Estudande+",
-            "img":"https://i.ibb.co/hmTHJ8r/Captura-de-tela-2024-07-31-205843.png",
+            "img":"https://i.ibb.co/Jq3kB3f/estudante.png",
             "data": "31/07/2024",
             "desc": "Ajuda para os estudantes.",
             "extendedDesc": "Conheça a plataforma que criei para ajudar os estudantes, poste dúvidas, dicas ou curiosidades sobre alguma matéria específica.",
@@ -21,9 +11,9 @@
             "repo": "https://github.com/vhnb/EstudanteMais"
         },
         {
-            "id":3,
+            "id":2,
             "project": "Projeto seu e-commerce",
-            "img":"https://i.ibb.co/zHNSYtg/Captura-de-tela-2024-06-26-210053.png",
+            "img":"https://i.ibb.co/mTf0tTh/seuecommerce.png",
             "data": "05/06/2024",
             "desc": "Painel de gerenciamento de e-commerce.",
             "extendedDesc": "Acabei de terminar meu novo projeto de gerenciamento de sua loja pessoal, crie produtos, configure sua loja e compartilhe-a com seus amigos",
@@ -31,9 +21,9 @@
             "repo": "https://github.com/vhnb/polygon-maker-store"
         },
         {
-            "id":4,
+            "id":3,
             "project": "Compartilhe seus links",
-            "img":"https://i.ibb.co/gVrVqxt/Captura-de-tela-2024-06-26-223150.png",
+            "img":"https://i.ibb.co/ZccTfqT/shary.png",
             "data": "13/05/2024",
             "desc": "Compartilhe seus links com seus amigos.",
             "extendedDesc": "Confira meu mais novo projeto de compartilhamento de links, feito em Next.js e Typescript utilizando a ferramenta Firebase como banco de dados. Crie seu perfil já. Aliás, veja o meu: https://sharyshare.vercel.app/profile/vitinhoo",
@@ -41,9 +31,9 @@
             "repo": ""
         },
         {
-            "id":5,
+            "id":4,
             "project": "Dashboard hospitalar",
-            "img":"https://i.ibb.co/rFtwPGk/Captura-de-tela-2024-06-26-223451.png",
+            "img":"https://i.ibb.co/s3Xk16Q/hospitalar.png",
             "data": "22/04/2024",
             "desc": "Dashboard com primeiro contato em Node.js.",
             "extendedDesc": "Com meu primeiro contato com Node.js, criei esta dashboard apenas para treino, o projeto é escolar e foi um desafio pessoal!",
@@ -51,9 +41,9 @@
             "repo": "https://github.com/vhnb/project-school-hospital"
         },
         {
-            "id":6,
+            "id":5,
             "project": "Tarefas +",
-            "img":"https://i.ibb.co/2MPyMmx/Captura-de-tela-2024-06-26-224038.png",
+            "img":"https://i.ibb.co/VJz10pK/tarefas.png",
             "data": "18/04/2024",
             "desc": "To-do-list com funcionalidades exclusivas.",
             "extendedDesc": "Primeiro projeto com Next.js, fiz uma to-do-list com sistemas a mais! Desafio foi passado pelo curso do Matheus Fraga.",
