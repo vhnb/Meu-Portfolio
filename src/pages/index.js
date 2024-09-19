@@ -43,7 +43,7 @@ export default function Home() {
         <div id="containerInfo" className={styles.containerContentInfo}>
           <div className={styles.contentTextInfo}>
             <h1>Olá. Sou <span>Victor</span>! Desenvolvedor front-end.</h1>
-            <p>Sou um programador front-end em constante busca por evolução. Com uma sólida experiência nesse campo, meu objetivo é sempre entregar projetos com qualidade e eficiência. Se quiser me conhecer melhor ou encontrar mais de minhas habilidades ou projetos, pode me achar no <a href="https://www.linkedin.com/" target="blank">Linkedin</a> ou no <a href="https://github.com/vhnb" target="blank">Github</a>.</p>
+            <p>Sou um programador front-end em constante busca por evolução. Com uma sólida experiência nesse campo, meu objetivo é sempre entregar projetos com qualidade e eficiência. Se quiser me conhecer melhor ou encontrar mais de minhas habilidades ou projetos, pode me achar no <a href="https://www.linkedin.com/in/victor-henrique-405618284/" target="blank">Linkedin</a> ou no <a href="https://github.com/vhnb" target="blank">Github</a>.</p>
           </div>
           <Image className={styles.imgPhoto} src={myPhoto} alt="My Photo" />
         </div>
