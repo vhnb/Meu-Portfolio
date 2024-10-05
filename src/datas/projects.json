@@ -3,7 +3,7 @@
         {
             "id":1,
             "project": "Projeto Estudande+",
-            "img":"https://i.ibb.co/Jq3kB3f/estudante.png",
+            "img":"https://i.ibb.co/4JFGntv/image.png",
             "data": "31/07/2024",
             "desc": "Ajuda para os estudantes.",
             "extendedDesc": "Conheça a plataforma que criei para ajudar os estudantes, poste dúvidas, dicas ou curiosidades sobre alguma matéria específica.",
@@ -13,7 +13,7 @@
         {
             "id":2,
             "project": "Projeto seu e-commerce",
-            "img":"https://i.ibb.co/mTf0tTh/seuecommerce.png",
+            "img":"https://i.ibb.co/kMpy9Gc/image.png",
             "data": "05/06/2024",
             "desc": "Painel de gerenciamento de e-commerce.",
             "extendedDesc": "Acabei de terminar meu novo projeto de gerenciamento de sua loja pessoal, crie produtos, configure sua loja e compartilhe-a com seus amigos",
@@ -23,7 +23,7 @@
         {
             "id":3,
             "project": "Compartilhe seus links",
-            "img":"https://i.ibb.co/ZccTfqT/shary.png",
+            "img":"https://i.ibb.co/1RZQK4M/image.png",
             "data": "13/05/2024",
             "desc": "Compartilhe seus links com seus amigos.",
             "extendedDesc": "Confira meu mais novo projeto de compartilhamento de links, feito em Next.js e Typescript utilizando a ferramenta Firebase como banco de dados. Crie seu perfil já. Aliás, veja o meu: https://sharyshare.vercel.app/profile/vitinhoo",
@@ -32,18 +32,8 @@
         },
         {
             "id":4,
-            "project": "Dashboard hospitalar",
-            "img":"https://i.ibb.co/s3Xk16Q/hospitalar.png",
-            "data": "22/04/2024",
-            "desc": "Dashboard com primeiro contato em Node.js.",
-            "extendedDesc": "Com meu primeiro contato com Node.js, criei esta dashboard apenas para treino, o projeto é escolar e foi um desafio pessoal!",
-            "skillsUsed":["HTML", "Node.js", "CSS"],
-            "repo": "https://github.com/vhnb/project-school-hospital"
-        },
-        {
-            "id":5,
             "project": "Tarefas +",
-            "img":"https://i.ibb.co/VJz10pK/tarefas.png",
+            "img":"https://i.ibb.co/tXBQLHm/image.png",
             "data": "18/04/2024",
             "desc": "To-do-list com funcionalidades exclusivas.",
             "extendedDesc": "Primeiro projeto com Next.js, fiz uma to-do-list com sistemas a mais! Desafio foi passado pelo curso do Matheus Fraga.",
