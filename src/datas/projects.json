@@ -36,9 +36,9 @@
             "img":"https://i.ibb.co/1RZQK4M/image.png",
             "data": "13/05/2024",
             "desc": "Compartilhe seus links com seus amigos.",
-            "extendedDesc": "Confira meu mais novo projeto de compartilhamento de links, feito em Next.js e Typescript utilizando a ferramenta Firebase como banco de dados. Crie seu perfil já. Aliás, veja o meu: https://sharyshare.vercel.app/profile/vitinhoo",
+            "extendedDesc": "Confira meu mais novo projeto de compartilhamento de links, feito em Next.js e Typescript utilizando a ferramenta Firebase como banco de dados.",
             "skillsUsed":["Next.js", "TypeScript", "CSS", "Firebase"],
-            "repo": ""
+            "repo": "https://github.com/vhnb/shary"
         },
         {
             "id":5,
