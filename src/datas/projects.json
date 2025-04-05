@@ -2,6 +2,16 @@
     "projects": [
         {
             "id":1,
+            "project": "Snippets Tool",
+            "img":"https://i.ibb.co/WvxBH36/image.png",
+            "data": "05/04/2025",
+            "desc": "Organize seus trechos de forma inteligente.",
+            "extendedDesc": "Snippets é uma plataforma prática e eficiente, criada para desenvolvedores que buscam uma solução simples para armazenar, organizar e compartilhar trechos de código.",
+            "skillsUsed":["Next.js", "TypeScript", "Firebase", "CSS"],
+            "repo": "https://github.com/vhnb/snippets-tool"
+        },
+        {
+            "id":2,
             "project": "Projeto Criptomoedas",
             "img":"https://i.ibb.co/WvxBH36/image.png",
             "data": "26/10/2024",
@@ -11,7 +21,7 @@
             "repo": "https://github.com/vhnb/Criptomoedas"
         },
         {
-            "id":2,
+            "id":3,
             "project": "Projeto Estudande+",
             "img":"https://i.ibb.co/4JFGntv/image.png",
             "data": "31/07/2024",
@@ -21,7 +31,7 @@
             "repo": "https://github.com/vhnb/EstudanteMais"
         },
         {
-            "id":3,
+            "id":4,
             "project": "Projeto seu e-commerce",
             "img":"https://i.ibb.co/kMpy9Gc/image.png",
             "data": "05/06/2024",
@@ -31,7 +41,7 @@
             "repo": "https://github.com/vhnb/polygon-maker-store"
         },
         {
-            "id":4,
+            "id":5,
             "project": "Compartilhe seus links",
             "img":"https://i.ibb.co/1RZQK4M/image.png",
             "data": "13/05/2024",
@@ -41,7 +51,7 @@
             "repo": "https://github.com/vhnb/shary"
         },
         {
-            "id":5,
+            "id":6,
             "project": "Tarefas +",
             "img":"https://i.ibb.co/tXBQLHm/image.png",
             "data": "18/04/2024",
