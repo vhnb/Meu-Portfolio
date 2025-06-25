@@ -1,0 +1,55 @@
+.containerPost {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    border: 1px solid #1e1e1e30;
+    background-color: #090909;
+    padding: 12px 15px;
+    border-radius: 10px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    transition: 0.3s;
+    text-decoration: none;
+}
+
+.containerPost:hover {
+    border: 1px solid #1e1e1e;
+    transition: 0.3s;
+}
+
+.containerPost:hover p {
+    color: #fff;
+    transition: 0.3s;
+}
+
+.containerPost:hover span {
+    color: #fff;
+    transition: 0.3s;
+}
+
+.containerPost p {
+    color: #e7e7e7;
+    font-size: 15px;
+    transition: 0.3s;
+    width: 80%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.containerPost span {
+    color: #b8b8bc;
+    font-size: 14px;
+    transition: 0.3s;
+}
+
+@media screen and (max-width: 1100px) {
+    .containerPost {
+        width: 85%;
+    }
+
+    .containerPost p {
+        width: 60%;
+    }
+}
