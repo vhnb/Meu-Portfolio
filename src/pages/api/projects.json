@@ -1,0 +1,132 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "project": "Loop Apps",
+            "img": "/assets/projectsImage/loopimages/image1.png",
+            "imgs": [
+                "/assets/projectsImage/loopimages/image1.png",
+                "/assets/projectsImage/loopimages/image2.png",
+                "/assets/projectsImage/loopimages/image3.png",
+                "/assets/projectsImage/loopimages/image4.png",
+                "/assets/projectsImage/loopimages/image5.png",
+                "/assets/projectsImage/loopimages/image6.png",
+                "/assets/projectsImage/loopimages/image7.png",
+                "/assets/projectsImage/loopimages/image8.png",
+                "/assets/projectsImage/loopimages/image9.png"
+            ],
+            "date": "26/02/2026",
+            "desc": "Front-end at Loop Apps, a bot marketplace.",
+            "extendedDesc": "Contribuí com o front-end da dashboard do Loop Apps, plataforma da comunidade Loop voltada para venda e gerenciamento de bots no Discord.",
+            "skillsUsed": [
+                "Next.js",
+                "TypeScript",
+                "Tailwind"
+            ],
+            "repo": "",
+            "hasCarousel": true
+        },
+        {
+            "id": 2,
+            "project": "Snippets Tool",
+            "img": "/assets/projectsImage/project_snippets2.png",
+            "imgs": [],
+            "date": "05/04/2025",
+            "desc": "Organize seus trechos de forma inteligente.",
+            "extendedDesc": "Snippets é uma plataforma prática e eficiente, criada para desenvolvedores que buscam uma solução simples para armazenar, organizar e compartilhar trechos de código.",
+            "skillsUsed": [
+                "Next.js",
+                "TypeScript",
+                "Firebase",
+                "CSS"
+            ],
+            "repo": "https://github.com/vhnb/snippets-tool",
+            "hasCarousel": false
+        },
+        {
+            "id": 3,
+            "project": "Projeto Criptomoedas",
+            "img": "/assets/projectsImage/project_currency.png",
+            "imgs": [],
+            "date": "26/10/2024",
+            "desc": "Informações sobre criptomoedas.",
+            "extendedDesc": "Criei uma aplicação em React.js e TypeScript que consome uma API para exibir informações sobre criptomoedas, como Bitcoin, incluindo valores de mercado, volume e variações nas últimas 24 horas.",
+            "skillsUsed": [
+                "React.js",
+                "TypeScript",
+                "CSS"
+            ],
+            "repo": "https://github.com/vhnb/Criptomoedas",
+            "hasCarousel": false
+        },
+        {
+            "id": 4,
+            "project": "Projeto Estudande+",
+            "img": "/assets/projectsImage/project_estudantes.png",
+            "imgs": [],
+            "date": "31/07/2024",
+            "desc": "Ajuda para os estudantes.",
+            "extendedDesc": "Conheça a plataforma que criei para ajudar os estudantes, poste dúvidas, dicas ou curiosidades sobre alguma matéria específica.",
+            "skillsUsed": [
+                "Next.js",
+                "TypeScript",
+                "CSS",
+                "Firebase",
+                "Bootstrap"
+            ],
+            "repo": "https://github.com/vhnb/EstudanteMais",
+            "hasCarousel": false
+        },
+        {
+            "id": 5,
+            "project": "Projeto seu e-commerce",
+            "img": "/assets/projectsImage/project_polygon.png",
+            "imgs": [],
+            "date": "05/06/2024",
+            "desc": "Painel de gerenciamento de e-commerce.",
+            "extendedDesc": "Acabei de terminar meu novo projeto de gerenciamento de sua loja pessoal, crie produtos, configure sua loja e compartilhe-a com seus amigos",
+            "skillsUsed": [
+                "Next.js",
+                "TypeScript",
+                "CSS",
+                "Firebase"
+            ],
+            "repo": "https://github.com/vhnb/polygon-maker-store",
+            "hasCarousel": false
+        },
+        {
+            "id": 6,
+            "project": "Compartilhe seus links",
+            "img": "/assets/projectsImage/project_shary.png",
+            "imgs": [],
+            "date": "13/05/2024",
+            "desc": "Compartilhe seus links com seus amigos.",
+            "extendedDesc": "Confira meu mais novo projeto de compartilhamento de links, feito em Next.js e Typescript utilizando a ferramenta Firebase como banco de dados.",
+            "skillsUsed": [
+                "Next.js",
+                "TypeScript",
+                "CSS",
+                "Firebase"
+            ],
+            "repo": "https://github.com/vhnb/shary",
+            "hasCarousel": false
+        },
+        {
+            "id": 7,
+            "project": "Tarefas +",
+            "img": "/assets/projectsImage/project_tarefas.png",
+            "imgs": [],
+            "date": "18/04/2024",
+            "desc": "To-do-list com funcionalidades exclusivas.",
+            "extendedDesc": "Primeiro projeto com Next.js, fiz uma to-do-list com sistemas a mais! Desafio foi passado pelo curso do Matheus Fraga.",
+            "skillsUsed": [
+                "Next.js",
+                "TypeScript",
+                "CSS",
+                "Firebase"
+            ],
+            "repo": "https://github.com/vhnb/tarefas-plus",
+            "hasCarousel": false
+        }
+    ]
+}
