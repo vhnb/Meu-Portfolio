@@ -21,9 +21,10 @@ export default function CardAbout({ paraph, img, width, index, height, isEmpty, 
             ) : (
                 <>
                     <img src={img} alt="Information" className="absolute inset-0 w-full h-full object-cover" />
-                    <p className="relative z-10 text-[12px] md:text-[15px]">{paraph}</p>
+                    <p className="relative z-10 text-[12px] md:text-[15px] tabular-nums">{paraph}</p>
                 </>
             )}
         </motion.article>
     )
+
 }
